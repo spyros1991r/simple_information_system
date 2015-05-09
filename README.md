@@ -5,3 +5,5 @@ Simple Information System created in php, html,css that can be used as a basis f
 2)search in the database for the amount of a product<br/>
 3)find if the quantity of a product is very low<br/>
 4)See if after some time the sales of the product are low in table statistics then the price of the product should be lowered<br/>
+<br/>
+Feel free to ask for anything or for any modefications you think might be useful
