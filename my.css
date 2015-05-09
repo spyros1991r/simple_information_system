@@ -1,0 +1,19 @@
+form label, input{
+float:left;
+clear:left;
+}
+
+#mymessage{
+    background:#9CD696;
+    padding:5px;
+    border:1px solid green;
+    width:300px;
+}
+#warning
+{
+  background:#FFBABA;
+    padding:5px;
+    border:1px solid red;
+    width:300px;  
+}  
+
